@@ -1,0 +1,710 @@
+{
+    "183360": {
+        "courseName": "Digitalna logika",
+        "ECTS": "6",
+        "courseType": "Obavezni",
+        "courseStructure": "60+0+15+15"
+    },
+    "183355": {
+        "courseName": "Linearna algebra",
+        "ECTS": "5",
+        "courseType": "Obavezni",
+        "courseStructure": "60+0+15+0"
+    },
+    "183352": {
+        "courseName": "Matematička analiza 1",
+        "ECTS": "8",
+        "courseType": "Obavezni",
+        "courseStructure": "90+0+30+0"
+    },
+    "252321": {
+        "courseName": "Tjelesna i zdravstvena kultura 1",
+        "ECTS": "0",
+        "courseType": "Obavezni",
+        "courseStructure": "0+0+0+30"
+    },
+    "183357": {
+        "courseName": "Uvod u programiranje",
+        "ECTS": "7",
+        "courseType": "Obavezni",
+        "courseStructure": "60+0+0+18"
+    },
+    "229831": {
+        "courseName": "Vještine komuniciranja",
+        "ECTS": "4",
+        "courseType": "Obavezni",
+        "courseStructure": "30+3+0+5"
+    },
+    "183368": {
+        "courseName": "Fizika",
+        "ECTS": "6",
+        "courseType": "Obavezni",
+        "courseStructure": "5+0+0+15"
+    },
+    "183361": {
+        "courseName": "Matematička analiza 2",
+        "ECTS": "7",
+        "courseType": "Obavezni",
+        "courseStructure": "90+0+15+0"
+    },
+    "183371": {
+        "courseName": "Objektno orijentirano programiranje",
+        "ECTS": "8",
+        "courseType": "Obavezni",
+        "courseStructure": "60+0+15+18"
+    },
+    "183374": {
+        "courseName": "Osnove elektrotehnike",
+        "ECTS": "7",
+        "courseType": "Obavezni",
+        "courseStructure": "90+0+0+15"
+    },
+    "252323": {
+        "courseName": "Tjelesna i zdravstvena kultura 2",
+        "ECTS": "0",
+        "courseType": "Obavezni",
+        "courseStructure": "0+0+0+30"
+    },
+    "240764": {
+        "courseName": "Energija i društveno-gospodarski razvoj",
+        "ECTS": "2",
+        "courseType": "Transverzalni",
+        "courseStructure": "30+5+0+0"
+    },
+    "269089": {
+        "courseName": "Menadžment u inženjerstvu",
+        "ECTS": "2",
+        "courseType": "Transverzalni",
+        "courseStructure": "30+5+0+0"
+    },
+    "183378": {
+        "courseName": "Osnovna načela dizajna",
+        "ECTS": "2",
+        "courseType": "Transverzalni",
+        "courseStructure": "15+0+0+13"
+    },
+    "183362": {
+        "courseName": "Pretraživanje informacija i tehničko izražavanje",
+        "ECTS": "2",
+        "courseType": "Transverzalni",
+        "courseStructure": "15+0+0+6"
+    },
+    "183440": {
+        "courseName": "Upravljanje kakvoćom",
+        "ECTS": "2",
+        "courseType": "Transverzalni",
+        "courseStructure": "30+0+0+0"
+    },
+    "183381": {
+        "courseName": "Algoritmi i strukture podataka",
+        "ECTS": "6",
+        "courseType": "Obavezni",
+        "courseStructure": "60+0+0+6"
+    },
+    "183393": {
+        "courseName": "Arhitektura računala 1R",
+        "ECTS": "6",
+        "courseType": "Obavezni",
+        "courseStructure": "60+0+0+18"
+    },
+    "183396": {
+        "courseName": "Diskretna matematika 1",
+        "ECTS": "6",
+        "courseType": "Obavezni",
+        "courseStructure": "60+0+0+6"
+    },
+    "183387": {
+        "courseName": "Teorija informacije",
+        "ECTS": "4",
+        "courseType": "Obavezni",
+        "courseStructure": "45+0+0+15"
+    },
+    "252325": {
+        "courseName": "Tjelesna i zdravstvena kultura 3",
+        "ECTS": "0",
+        "courseType": "Obavezni",
+        "courseStructure": "0+0+0+30"
+    },
+    "183401": {
+        "courseName": "Vjerojatnost i statistika",
+        "ECTS": "6",
+        "courseType": "Obavezni",
+        "courseStructure": "60+0+15+6"
+    },
+    "183404": {
+        "courseName": "Inženjerska ekonomika 1",
+        "ECTS": "2",
+        "courseType": "Transverzalni",
+        "courseStructure": "30+0+0+0"
+    },
+    "183409": {
+        "courseName": "Okoliš, održivi razvoj i ublažavanje klimatskih promjena",
+        "ECTS": "2",
+        "courseType": "Transverzalni",
+        "courseStructure": "30+0+0+0"
+    },
+    "183407": {
+        "courseName": "Umjetnost novih medija",
+        "ECTS": "2",
+        "courseType": "Transverzalni",
+        "courseStructure": "15+0+0+13"
+    },
+    "229863": {
+        "courseName": "Baze podataka",
+        "ECTS": "6",
+        "courseType": "Obavezni",
+        "courseStructure": "60+0+0+15"
+    },
+    "183420": {
+        "courseName": "Komunikacijske mreže",
+        "ECTS": "6",
+        "courseType": "Obavezni",
+        "courseStructure": "60+0+0+16"
+    },
+    "240657": {
+        "courseName": "Operacijski sustavi",
+        "ECTS": "6",
+        "courseType": "Obavezni",
+        "courseStructure": "75+0+0+10"
+    },
+    "229838": {
+        "courseName": "Razvoj programske potpore za web",
+        "ECTS": "5",
+        "courseType": "Obavezni",
+        "courseStructure": "45+0+0+15"
+    },
+    "252345": {
+        "courseName": "Tjelesna i zdravstvena kultura 4",
+        "ECTS": "0",
+        "courseType": "Obavezni",
+        "courseStructure": "0+0+0+30"
+    },
+    "183412": {
+        "courseName": "Uvod u teoriju računarstva",
+        "ECTS": "5",
+        "courseType": "Obavezni",
+        "courseStructure": "60+0+0+10"
+    },
+    "183437": {
+        "courseName": "Inženjerska ekonomika 2",
+        "ECTS": "2",
+        "courseType": "Transverzalni",
+        "courseStructure": "30+0+0+0"
+    },
+    "240800": {
+        "courseName": "Istraživanje javnog mnijenja u prihvatu novih tehnologija",
+        "ECTS": "2",
+        "courseType": "Transverzalni",
+        "courseStructure": "30+0+0+0"
+    },
+    "183444": {
+        "courseName": "Upravljanje rizikom",
+        "ECTS": "2",
+        "courseType": "Transverzalni",
+        "courseStructure": "30+0+0+0"
+    },
+    "183425": {
+        "courseName": "Prevođenje programskih jezika",
+        "ECTS": "5",
+        "courseType": "Obavezni",
+        "courseStructure": "60+0+0+10"
+    },
+    "183400": {
+        "courseName": "Programsko inženjerstvo",
+        "ECTS": "5",
+        "courseType": "Obavezni",
+        "courseStructure": "45+0+0+26"
+    },
+    "183457": {
+        "courseName": "Projekt R",
+        "ECTS": "8",
+        "courseType": "Obavezni",
+        "courseStructure": "8+0+0+0"
+    },
+    "183382": {
+        "courseName": "Upravljanje znanjem",
+        "ECTS": "3",
+        "courseType": "Transverzalni",
+        "courseStructure": "30+0+7+0"
+    },
+    "183417": {
+        "courseName": "Alati za razvoj digitalnih sustava",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+0+0+12"
+    },
+    "183428": {
+        "courseName": "Arhitektura računala 2",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "60+0+0+8"
+    },
+    "183414": {
+        "courseName": "Audio elektronika",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+10"
+    },
+    "183413": {
+        "courseName": "Buka i vibracije u okolišu",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+12"
+    },
+    "183460": {
+        "courseName": "Digitalni video",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+14"
+    },
+    "183430": {
+        "courseName": "Elektroakustika 1",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+15+10"
+    },
+    "230468": {
+        "courseName": "Elektroenergetski sustavi 1",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+5+15+8"
+    },
+    "229830": {
+        "courseName": "Elektronički sustavi",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "60+0+0+15"
+    },
+    "183439": {
+        "courseName": "Elementi sustava automatizacije",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+14"
+    },
+    "183366": {
+        "courseName": "Interaktivni simulacijski sustavi",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+0+0+6"
+    },
+    "183372": {
+        "courseName": "Javna pokretna mreža",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+0+0+15"
+    },
+    "269315": {
+        "courseName": "Komunikacijske mreže 2",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+0+0+15"
+    },
+    "183402": {
+        "courseName": "Kvantna računala",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+15+0"
+    },
+    "227564": {
+        "courseName": "Matematičko modeliranje u inženjerstvu",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+0"
+    },
+    "183441": {
+        "courseName": "Mikro i nano elektronički elementi",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+15+4"
+    },
+    "183491": {
+        "courseName": "Moderna fizika i primjene u elektrotehnici",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "60+0+0+0"
+    },
+    "183403": {
+        "courseName": "Moderne metode fizike u elektrotehnici i računarstvu",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+5+0+0"
+    },
+    "183445": {
+        "courseName": "Numerička matematika",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+15+10"
+    },
+    "183369": {
+        "courseName": "Obrada informacija",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+15"
+    },
+    "229835": {
+        "courseName": "Odabrana poglavlja razvoja programske potpore 1",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+15"
+    },
+    "183373": {
+        "courseName": "Osnove elektronike",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "60+0+0+12"
+    },
+    "252373": {
+        "courseName": "Osnove energetske elektronike",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+15+18"
+    },
+    "183406": {
+        "courseName": "Osnove fizike plazme",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+15+0"
+    },
+    "183375": {
+        "courseName": "Osnove mehatronike",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+18"
+    },
+    "183447": {
+        "courseName": "Osnove obradbe signala",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+10+20"
+    },
+    "222597": {
+        "courseName": "Osnove statističkog programiranja",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+15"
+    },
+    "183451": {
+        "courseName": "Otvoreno računarstvo",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+12"
+    },
+    "183376": {
+        "courseName": "Paralelizam i konkurentnost",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+15"
+    },
+    "183379": {
+        "courseName": "Praktikum elektroničkih elemenata i sklopova",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "15+0+0+39"
+    },
+    "183453": {
+        "courseName": "Primjena elektromagnetskih valova u inženjerstvu",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+15+12"
+    },
+    "240673": {
+        "courseName": "Programiranje i simuliranje robota",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "0+0+6+20"
+    },
+    "229839": {
+        "courseName": "Razvoj primijenjene programske potpore",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+6"
+    },
+    "229840": {
+        "courseName": "Statistička analiza podataka",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+15"
+    },
+    "183388": {
+        "courseName": "Tehnička normizacija i legislativa",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "60+0+0+0"
+    },
+    "183390": {
+        "courseName": "Tehnološke osnove iskorištavanja obnovljivih izvora energije",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+15+0"
+    },
+    "183398": {
+        "courseName": "Umrežene višemedijske usluge",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+9"
+    },
+    "183410": {
+        "courseName": "Uvod u molekularnu biologiju i genetiku",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+0"
+    },
+    "214701": {
+        "courseName": "Uvod u svemirske tehnologije",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "40+5+0+0"
+    },
+    "183503": {
+        "courseName": "Sigurnost računalnih sustava",
+        "ECTS": "4",
+        "courseType": "Obavezni",
+        "courseStructure": "45+0+0+12"
+    },
+    "229862": {
+        "courseName": "Uvod u umjetnu inteligenciju",
+        "ECTS": "4",
+        "courseType": "Obavezni",
+        "courseStructure": "45+0+0+15"
+    },
+    "183356": {
+        "courseName": "Završni rad",
+        "ECTS": "10",
+        "courseType": "Obavezni",
+        "courseStructure": "0+0+0+0"
+    },
+    "240670": {
+        "courseName": "Inovacije i upravljanje tehnologijom",
+        "ECTS": "2",
+        "courseType": "Transverzalni",
+        "courseStructure": "30+5+0+0"
+    },
+    "183486": {
+        "courseName": "Analogni integrirani sklopovi",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+15+12"
+    },
+    "183461": {
+        "courseName": "Audiotehnika",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+15+10"
+    },
+    "183492": {
+        "courseName": "Bioinformatika 1",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+0+0+5"
+    },
+    "268922": {
+        "courseName": "Digitalna obrada i analiza slike",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+0+15+15"
+    },
+    "229634": {
+        "courseName": "Digitalni sustavi upravljanja",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "60+0+8+12"
+    },
+    "183493": {
+        "courseName": "Dinamički sustavi, matematički temelji stabilnosti i upravljanja",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "60+0+0+0"
+    },
+    "183494": {
+        "courseName": "Diskretna matematika 2",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+4"
+    },
+    "183483": {
+        "courseName": "Ekonomija i ekologija radiokomunikacijskih sustava",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+15+0"
+    },
+    "229832": {
+        "courseName": "Elektroenergetski sustavi 2",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+5+15+8"
+    },
+    "183469": {
+        "courseName": "Ergonomija u računarstvu",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+6+0+0"
+    },
+    "269201": {
+        "courseName": "Fizika lasera",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+8"
+    },
+    "183500": {
+        "courseName": "Fizika materijala",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+8+5"
+    },
+    "183359": {
+        "courseName": "Interaktivna računalna grafika",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+15"
+    },
+    "183367": {
+        "courseName": "Izrada elektroničkih prototipa",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "15+0+0+39"
+    },
+    "183380": {
+        "courseName": "Kratkodometni radijski sustavi",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+15+6"
+    },
+    "183386": {
+        "courseName": "Lokalne mreže",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+0+0+15"
+    },
+    "183394": {
+        "courseName": "Mrežno programiranje",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+0+0+15"
+    },
+    "183397": {
+        "courseName": "Multimedijski sustavi",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+6+15"
+    },
+    "183405": {
+        "courseName": "Niskonaponske mreže i mikromreže",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+0+15+15"
+    },
+    "183464": {
+        "courseName": "Numerička linearna algebra",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+13"
+    },
+    "183426": {
+        "courseName": "Oblikovni obrasci u programiranju",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+0+15+8"
+    },
+    "229836": {
+        "courseName": "Odabrana poglavlja razvoja programske potpore 2",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+15"
+    },
+    "183438": {
+        "courseName": "Optoelektronika",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+26"
+    },
+    "183443": {
+        "courseName": "Osnove automatizacije",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "22+0+0+26"
+    },
+    "183474": {
+        "courseName": "Osnove bežičnih sustava",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "60+0+0+10"
+    },
+    "269200": {
+        "courseName": "Osnove električnih i hibridnih vozila",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+5+15+6"
+    },
+    "183408": {
+        "courseName": "Osnove nuklearne fizike",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+15+0"
+    },
+    "183462": {
+        "courseName": "Osnove upravljanja električnim strojevima",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "15+0+15+38"
+    },
+    "240692": {
+        "courseName": "Osnove virtualnih okruženja",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+0+0+8"
+    },
+    "220585": {
+        "courseName": "Praktikum robotike",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "15+0+0+26"
+    },
+    "229833": {
+        "courseName": "Projektiranje elektroničkih sustava",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "60+5+0+15"
+    },
+    "183467": {
+        "courseName": "Računalne metode u modernoj fizici",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+13"
+    },
+    "183475": {
+        "courseName": "Skriptni jezici",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+0+0+12"
+    },
+    "183365": {
+        "courseName": "Stohastički procesi",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "60+0+0+0"
+    },
+    "229861": {
+        "courseName": "Tehnologija u medicini",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "30+0+0+15"
+    },
+    "183465": {
+        "courseName": "Ugradbeni računalni sustavi",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "60+0+0+18"
+    },
+    "183487": {
+        "courseName": "Uvod u projektiranje sustava s mješovitim signalom na razini integriranih sklopova",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "15+0+0+39"
+    },
+    "183489": {
+        "courseName": "Uvod u raspoznavanje uzoraka",
+        "ECTS": "5",
+        "courseType": "Izborni",
+        "courseStructure": "45+0+0+0"
+    }
+}

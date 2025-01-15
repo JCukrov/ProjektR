@@ -1,0 +1,178 @@
+Semestar 1
+
+Obavezni
+6;60+0+15+15;Digitalna logika (183360)
+5;60+0+15+0;Linearna algebra (183355)
+8;90+0+30+0;Matematička analiza 1 (183352)
+0;0+0+0+30;Tjelesna i zdravstvena kultura 1 (252321)
+7;60+0+0+18;Uvod u programiranje (183357)
+4;30+3+0+5;Vještine komuniciranja (229831)
+
+Transverzalni
+
+Izborni
+
+Semestar 2
+
+Obavezni
+6;5+0+0+15;Fizika (183368)
+7;90+0+15+0;Matematička analiza 2 (183361)
+8;60+0+15+18;Objektno orijentirano programiranje (183371)
+7;90+0+0+15;Osnove elektrotehnike (183374)
+0;0+0+0+30;Tjelesna i zdravstvena kultura 2 (252323)
+
+Transverzalni
+2;30+5+0+0;Energija i društveno-gospodarski razvoj (240764)
+2;30+5+0+0;Menadžment u inženjerstvu (269089)
+2;15+0+0+13;Osnovna načela dizajna (183378)
+2;15+0+0+6;Pretraživanje informacija i tehničko izražavanje (183362)
+2;30+0+0+0;Upravljanje kakvoćom (183440)
+
+Izborni
+
+Semestar 3
+
+Obavezni
+6;60+0+0+6;Algoritmi i strukture podataka (183381)
+6;60+0+0+18;Arhitektura računala 1R (183393)
+6;60+0+0+6;Diskretna matematika 1 (183396)
+4;45+0+0+15;Teorija informacije (183387)
+0;0+0+0+30;Tjelesna i zdravstvena kultura 3 (252325)
+6;60+0+15+6;Vjerojatnost i statistika (183401)
+
+Transverzalni
+2;30+0+0+0;Inženjerska ekonomika 1 (183404)
+2;30+0+0+0;Okoliš, održivi razvoj i ublažavanje klimatskih promjena (183409)
+2;15+0+0+13;Umjetnost novih medija (183407)
+
+Izborni
+
+Semestar 4
+
+Obavezni
+6;60+0+0+15;Baze podataka (229863)
+6;60+0+0+16;Komunikacijske mreže (183420)
+6;75+0+0+10;Operacijski sustavi (240657)
+5;45+0+0+15;Razvoj programske potpore za web (229838)
+0;0+0+0+30;Tjelesna i zdravstvena kultura 4 (252345)
+5;60+0+0+10;Uvod u teoriju računarstva (183412)
+
+Transverzalni
+2;30+5+0+0;Energija i društveno-gospodarski razvoj (240764)
+2;30+0+0+0;Inženjerska ekonomika 2 (183437)
+2;30+0+0+0;Istraživanje javnog mnijenja u prihvatu novih tehnologija (240800)
+2;30+5+0+0;Menadžment u inženjerstvu (269089)
+2;15+0+0+13;Osnovna načela dizajna (183378)
+2;30+0+0+0;Upravljanje kakvoćom (183440)
+2;30+0+0+0;Upravljanje rizikom (183444)
+
+Izborni
+
+Semestar 5
+
+Obavezni
+5;60+0+0+10;Prevođenje programskih jezika (183425)
+5;45+0+0+26;Programsko inženjerstvo (183400)
+8;8+0+0+0;Projekt R (183457)
+
+Transverzalni
+2;30+0+0+0;Inženjerska ekonomika 1 (183404)
+2;30+0+0+0;Okoliš, održivi razvoj i ublažavanje klimatskih promjena (183409)
+2;15+0+0+13;Umjetnost novih medija (183407)
+3;30+0+7+0;Upravljanje znanjem (183382)
+
+Izborni
+5;30+0+0+12;Alati za razvoj digitalnih sustava (183417)
+5;60+0+0+8;Arhitektura računala 2 (183428)
+5;45+0+0+10;Audio elektronika (183414)
+5;45+0+0+12;Buka i vibracije u okolišu (183413)
+5;45+0+0+14;Digitalni video (183460)
+5;45+0+15+10;Elektroakustika 1 (183430)
+5;45+5+15+8;Elektroenergetski sustavi 1 (230468)
+5;60+0+0+15;Elektronički sustavi (229830)
+5;45+0+0+14;Elementi sustava automatizacije (183439)
+5;30+0+0+6;Interaktivni simulacijski sustavi (183366)
+5;30+0+0+15;Javna pokretna mreža (183372)
+5;30+0+0+15;Komunikacijske mreže 2 (269315)
+5;45+0+15+0;Kvantna računala (183402)
+5;45+0+0+0;Matematičko modeliranje u inženjerstvu (227564)
+5;45+0+15+4;Mikro i nano elektronički elementi (183441)
+5;60+0+0+0;Moderna fizika i primjene u elektrotehnici (183491)
+5;30+5+0+0;Moderne metode fizike u elektrotehnici i računarstvu (183403)
+5;45+0+15+10;Numerička matematika (183445)
+5;45+0+0+15;Obrada informacija (183369)
+5;45+0+0+15;Odabrana poglavlja razvoja programske potpore 1 (229835)
+5;60+0+0+12;Osnove elektronike (183373)
+5;45+0+15+18;Osnove energetske elektronike (252373)
+5;45+0+15+0;Osnove fizike plazme (183406)
+5;45+0+0+18;Osnove mehatronike (183375)
+5;45+0+10+20;Osnove obradbe signala (183447)
+5;45+0+0+15;Osnove statističkog programiranja (222597)
+5;45+0+0+12;Otvoreno računarstvo (183451)
+5;45+0+0+15;Paralelizam i konkurentnost (183376)
+5;15+0+0+39;Praktikum elektroničkih elemenata i sklopova (183379)
+5;45+0+15+12;Primjena elektromagnetskih valova u inženjerstvu (183453)
+5;0+0+6+20;Programiranje i simuliranje robota (240673)
+5;45+0+0+6;Razvoj primijenjene programske potpore (229839)
+5;45+0+0+15;Statistička analiza podataka (229840)
+5;60+0+0+0;Tehnička normizacija i legislativa (183388)
+5;45+0+15+0;Tehnološke osnove iskorištavanja obnovljivih izvora energije (183390)
+5;45+0+0+9;Umrežene višemedijske usluge (183398)
+5;45+0+0+0;Uvod u molekularnu biologiju i genetiku (183410)
+5;40+5+0+0;Uvod u svemirske tehnologije (214701)
+
+Semestar 6
+
+Obavezni
+4;45+0+0+12;Sigurnost računalnih sustava (183503)
+4;45+0+0+15;Uvod u umjetnu inteligenciju (229862)
+10;0+0+0+0;Završni rad (183356)
+
+Transverzalni
+2;30+5+0+0;Energija i društveno-gospodarski razvoj (240764)
+2;30+5+0+0;Inovacije i upravljanje tehnologijom (240670)
+2;30+0+0+0;Inženjerska ekonomika 2 (183437)
+2;30+0+0+0;Istraživanje javnog mnijenja u prihvatu novih tehnologija (240800)
+2;15+0+0+13;Osnovna načela dizajna (183378)
+2;30+0+0+0;Upravljanje kakvoćom (183440)
+2;30+0+0+0;Upravljanje rizikom (183444)
+
+Izborni
+5;45+0+15+12;Analogni integrirani sklopovi (183486)
+5;45+0+15+10;Audiotehnika (183461)
+5;30+0+0+5;Bioinformatika 1 (183492)
+5;30+0+15+15;Digitalna obrada i analiza slike (268922)
+5;60+0+8+12;Digitalni sustavi upravljanja (229634)
+5;60+0+0+0;Dinamički sustavi, matematički temelji stabilnosti i upravljanja (183493)
+5;45+0+0+4;Diskretna matematika 2 (183494)
+5;45+0+15+0;Ekonomija i ekologija radiokomunikacijskih sustava (183483)
+5;45+5+15+8;Elektroenergetski sustavi 2 (229832)
+5;30+6+0+0;Ergonomija u računarstvu (183469)
+5;45+0+0+8;Fizika lasera (269201)
+5;45+0+8+5;Fizika materijala (183500)
+5;45+0+0+15;Interaktivna računalna grafika (183359)
+5;15+0+0+39;Izrada elektroničkih prototipa (183367)
+5;45+0+15+6;Kratkodometni radijski sustavi (183380)
+5;30+0+0+15;Lokalne mreže (183386)
+5;30+0+0+15;Mrežno programiranje (183394)
+5;45+0+6+15;Multimedijski sustavi (183397)
+5;30+0+15+15;Niskonaponske mreže i mikromreže (183405)
+5;45+0+0+13;Numerička linearna algebra (183464)
+5;30+0+15+8;Oblikovni obrasci u programiranju (183426)
+5;45+0+0+15;Odabrana poglavlja razvoja programske potpore 2 (229836)
+5;45+0+0+26;Optoelektronika (183438)
+5;22+0+0+26;Osnove automatizacije (183443)
+5;60+0+0+10;Osnove bežičnih sustava (183474)
+5;45+5+15+6;Osnove električnih i hibridnih vozila (269200)
+5;45+0+15+0;Osnove nuklearne fizike (183408)
+5;15+0+15+38;Osnove upravljanja električnim strojevima (183462)
+5;30+0+0+8;Osnove virtualnih okruženja (240692)
+5;15+0+0+26;Praktikum robotike (220585)
+5;60+5+0+15;Projektiranje elektroničkih sustava (229833)
+5;45+0+0+13;Računalne metode u modernoj fizici (183467)
+5;30+0+0+12;Skriptni jezici (183475)
+5;60+0+0+0;Stohastički procesi (183365)
+5;30+0+0+15;Tehnologija u medicini (229861)
+5;60+0+0+18;Ugradbeni računalni sustavi (183465)
+5;15+0+0+39;Uvod u projektiranje sustava s mješovitim signalom na razini integriranih sklopova (183487)
+5;45+0+0+0;Uvod u raspoznavanje uzoraka (183489)
