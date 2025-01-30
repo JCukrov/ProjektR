@@ -9,7 +9,7 @@ UPPER_BOUND: int = 999_999
 completeStudyProgram = {}
 
 
-def assignCourses(semseter: int) -> list:
+def assignCourses(semester: int) -> list:
     '''
     Assigns courses to a student.
     Some assumptions are made: students will always be assigned mandatory courses and will be assigned 2 elective and 1 transversal if they're available
@@ -19,13 +19,13 @@ def assignCourses(semseter: int) -> list:
         list: list of assigned courses
     '''
     #line added because json.dumps silently converts integer keys into strings
-    semseter = str(semseter)
+    semester = str(semester)
 
     assignedCourses = []
 
-    for courseType in list(completeStudyProgram[semseter].keys()):
+    for courseType in list(completeStudyProgram[semester].keys()):
     
-        courses: list = completeStudyProgram[semseter][courseType]
+        courses: list = completeStudyProgram[semester][courseType]
     
         if courseType == "Obavezni":
             assignedCourses.extend(courses)
@@ -97,12 +97,18 @@ def generateStudents(n: int, semester) -> dict:
         print("Couldn't generate the students", file=sys.stderr)
         return -1
 
+    generateRandom = False
+    if semester == 0:
+        generateRandom = True
+    
     for i in range(n):
+        if generateRandom:
+            semester = random.randint(1,6)
         courses = assignCourses(semester)
         students[JMBAGs[i]] = {"semester": str(semester), "courses": courses}
     return students
 
-def main() -> None:
+def generateStudentData() -> None:
 
     with open("./data/ferCoursesBySemester.json", 'r', encoding='utf-8') as file:
         global completeStudyProgram
@@ -118,6 +124,6 @@ def main() -> None:
     with open("./data/studentsData.json", 'w', encoding='utf-8') as output:
         json.dump(students, output, ensure_ascii=False, indent=4)
 
-    print(students)
-if __name__ == "__main__":
-    main()
+    #print(students)
+
+generateStudentData()
